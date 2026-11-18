@@ -221,3 +221,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Datos del reto (no se suben)
+train.csv
+test_nolabel.csv
+submission.csv
